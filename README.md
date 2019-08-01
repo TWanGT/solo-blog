@@ -1,4 +1,4 @@
-<p align="center"><img alt="TWanGT 的个人博客" src="https://me.csdn.net/qq_34208844"></p><h2 align="center">
+<p align="center"><img alt="TWanGT 的个人博客" src="http://twangt.wang/myicon.png"></p><h2 align="center">
 TWanGT 的个人博客
 </h2>
 
@@ -10,6 +10,8 @@ TWanGT 的个人博客
 
 ### 最新
 
+* [使用官网镜像搭建私有docker仓库](http://twangt.wang/articles/2019/07/31/1564576993708.html)
+* [Docker Compose 配置文件详解(转载)](http://twangt.wang/articles/2019/07/31/1564555619418.html)
 * [DeskMini310 黑苹果](http://twangt.wang/articles/2019/07/30/1564456044182.html)
 * [rocketMQ 概念介绍](http://twangt.wang/articles/2019/07/30/1564455929020.html)
 * [H5页面-两步搞定文字首行缩进](http://twangt.wang/articles/2019/07/30/1564455845776.html)
