@@ -10,6 +10,8 @@ TWanGT 的个人博客
 
 ### 最新
 
+* [解决  Parameter '0' not found. Available parameters are [arg1, arg0, param1, param2]](http://twangt.wang/articles/2019/08/09/1565338441885.html)
+* [mybatis-plus 常见的绑定错误解决方案](http://twangt.wang/articles/2019/08/09/1565334515244.html)
 * [mongodb 启动事项(启动失败解决方案)](http://twangt.wang/articles/2019/08/05/1564987199205.html)
 * [使用 docker 创建个 mysql 服务](http://twangt.wang/docker,容器,mysql,数据库)
 * [使用 openssl 创建站点认证证书](http://twangt.wang/articles/2019/08/02/1564715676396.html)
@@ -28,12 +30,12 @@ TWanGT 的个人博客
 * [ mybaitis-plus 持久层高效开发, 懒人神器](http://twangt.wang/articles/2019/07/30/1564455655383.html)
 * [Vim的操作小技巧 (转载)](http://twangt.wang/articles/2019/07/30/1564455574852.html)
 * [打脸乔布斯，叫板马斯克，凭一己之力干翻索尼，89年黑客少年人生](http://twangt.wang/articles/2019/07/22/1563797899059.html)
-* [java使用google的jar包生成二维码图片](http://twangt.wang/articles/2019/07/20/1563594066224.html)
-* [安装docker(ubuntu环境)](http://twangt.wang/articles/2019/07/20/1563593595366.html)
 
 ### 热门
 
+* [java使用google的jar包生成二维码图片](http://twangt.wang/articles/2019/07/20/1563594066224.html)
 * [世界，你好！](http://twangt.wang/hello-solo)
+* [安装docker(ubuntu环境)](http://twangt.wang/articles/2019/07/20/1563593595366.html)
 
 
 
