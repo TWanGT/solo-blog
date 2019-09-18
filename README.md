@@ -38,8 +38,8 @@ TWanGT 的个人博客
 * [ mybaitis-plus 持久层高效开发, 懒人神器](http://twangt.wang/articles/2019/07/30/1564455655383.html)
 * [世界，你好！](http://twangt.wang/hello-solo)
 * [Vim的操作小技巧 (转载)](http://twangt.wang/articles/2019/07/30/1564455574852.html)
-* [Freemarker 3种循环模式](http://twangt.wang/articles/2019/07/30/1564455787984.html)
 * [安装docker(ubuntu环境)](http://twangt.wang/articles/2019/07/20/1563593595366.html)
+* [Freemarker 3种循环模式](http://twangt.wang/articles/2019/07/30/1564455787984.html)
 
 
 
