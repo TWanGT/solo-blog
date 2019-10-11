@@ -10,6 +10,7 @@ TWanGT 的个人博客
 
 ### 最新
 
+* [ steam 循环 和 foreach 循环简单对比](http://twangt.wang/articles/2019/10/11/1570783962109.html)
 * [BeanUtils.copyProperties 和 fastjson 性能对比](http://twangt.wang/articles/2019/10/08/1570526423397.html)
 * [我在 GitHub 上的开源项目](http://twangt.wang/my-github-repos)
 * [企业各职位英文缩写](http://twangt.wang/articles/2019/09/20/1568964857995.html)
@@ -29,16 +30,16 @@ TWanGT 的个人博客
 * [mongodb 聚合函数(管道查询)](http://twangt.wang/articles/2019/08/01/1564639140699.html)
 * [mongodb 统计某个字段的和](http://twangt.wang/articles/2019/08/01/1564639100757.html)
 * [使用官网镜像搭建私有docker仓库](http://twangt.wang/articles/2019/07/31/1564576993708.html)
-* [Docker Compose 配置文件详解(转载)](http://twangt.wang/articles/2019/07/31/1564555619418.html)
 
 ### 热门
 
 * [打脸乔布斯，叫板马斯克，凭一己之力干翻索尼，89年黑客少年人生](http://twangt.wang/articles/2019/07/22/1563797899059.html)
 * [java使用google的jar包生成二维码图片](http://twangt.wang/articles/2019/07/20/1563594066224.html)
 * [世界，你好！](http://twangt.wang/hello-solo)
-* [Vim的操作小技巧 (转载)](http://twangt.wang/articles/2019/07/30/1564455574852.html)
 * [H5页面-两步搞定文字首行缩进](http://twangt.wang/articles/2019/07/30/1564455845776.html)
 * [ mybaitis-plus 持久层高效开发, 懒人神器](http://twangt.wang/articles/2019/07/30/1564455655383.html)
+* [Vim的操作小技巧 (转载)](http://twangt.wang/articles/2019/07/30/1564455574852.html)
+* [Docker Compose 配置文件详解(转载)](http://twangt.wang/articles/2019/07/31/1564555619418.html)
 * [rocketMQ 概念介绍](http://twangt.wang/articles/2019/07/30/1564455929020.html)
 * [DeskMini310 黑苹果](http://twangt.wang/articles/2019/07/30/1564456044182.html)
 * [安装docker(ubuntu环境)](http://twangt.wang/articles/2019/07/20/1563593595366.html)
