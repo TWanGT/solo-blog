@@ -10,6 +10,7 @@ TWanGT 的个人博客
 
 ### 最新
 
+* [详细解析位运算符{~, ^, &, |}和移位运算符{<<, >> ,  >>>}](http://twangt.wang/articles/2019/10/16/1571194791921.html)
 * [激活 IDEA 2019.2 以及其他2019年的 intelJ 全家桶](http://twangt.wang/articles/2019/10/14/1571033607803.html)
 * [如何使用 JUnit 自动化测试mvc接口(model)](http://twangt.wang/articles/2019/10/12/1570851959324.html)
 * [ steam 循环 和 foreach 循环简单对比](http://twangt.wang/articles/2019/10/11/1570783962109.html)
@@ -29,11 +30,11 @@ TWanGT 的个人博客
 * [修改docker 启动命令](http://twangt.wang/articles/2019/08/01/1564641887164.html)
 * [开放docker engin 远程端口](http://twangt.wang/articles/2019/08/01/1564641747778.html)
 * [mongodb update 更新数据,更新数组中的某个数据](http://twangt.wang/articles/2019/08/01/1564639209892.html)
-* [mongodb 聚合函数(管道查询)](http://twangt.wang/articles/2019/08/01/1564639140699.html)
 
 ### 热门
 
 * [mongodb 统计某个字段的和](http://twangt.wang/articles/2019/08/01/1564639100757.html)
+* [mongodb 聚合函数(管道查询)](http://twangt.wang/articles/2019/08/01/1564639140699.html)
 * [打脸乔布斯，叫板马斯克，凭一己之力干翻索尼，89年黑客少年人生](http://twangt.wang/articles/2019/07/22/1563797899059.html)
 * [使用官网镜像搭建私有docker仓库](http://twangt.wang/articles/2019/07/31/1564576993708.html)
 * [java使用google的jar包生成二维码图片](http://twangt.wang/articles/2019/07/20/1563594066224.html)
