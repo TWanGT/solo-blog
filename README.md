@@ -10,6 +10,8 @@ TWanGT 的个人博客
 
 ### 最新
 
+* [hive语法本地文件（txt，csv）导入hive库中](http://twangt.wang/articles/2019/11/09/1573285701073.html)
+* [sql中对参数值进行判断](http://twangt.wang/articles/2019/11/09/1573267795072.html)
 * [mongodb 索引简介和性能对比](http://twangt.wang/articles/2019/11/05/1572942568160.html)
 * [详细解析位运算符{~, ^, &, |}和移位运算符{<<, >> ,  >>>}](http://twangt.wang/articles/2019/10/16/1571194791921.html)
 * [激活 IDEA 2019.2 以及其他2019年的 intelJ 全家桶](http://twangt.wang/articles/2019/10/14/1571033607803.html)
@@ -28,8 +30,6 @@ TWanGT 的个人博客
 * [使用 docker 创建个 mysql 服务](http://twangt.wang/docker,容器,mysql,数据库)
 * [使用 openssl 创建站点认证证书](http://twangt.wang/articles/2019/08/02/1564715676396.html)
 * [docker推送到是有仓库失败(http: server gave HTTP response to HTTPS client)](http://twangt.wang/articles/2019/08/01/1564647169510.html)
-* [修改docker 启动命令](http://twangt.wang/articles/2019/08/01/1564641887164.html)
-* [开放docker engin 远程端口](http://twangt.wang/articles/2019/08/01/1564641747778.html)
 
 ### 热门
 
@@ -39,12 +39,14 @@ TWanGT 的个人博客
 * [打脸乔布斯，叫板马斯克，凭一己之力干翻索尼，89年黑客少年人生](http://twangt.wang/articles/2019/07/22/1563797899059.html)
 * [java使用google的jar包生成二维码图片](http://twangt.wang/articles/2019/07/20/1563594066224.html)
 * [使用官网镜像搭建私有docker仓库](http://twangt.wang/articles/2019/07/31/1564576993708.html)
+* [修改docker 启动命令](http://twangt.wang/articles/2019/08/01/1564641887164.html)
+* [开放docker engin 远程端口](http://twangt.wang/articles/2019/08/01/1564641747778.html)
 * [H5页面-两步搞定文字首行缩进](http://twangt.wang/articles/2019/07/30/1564455845776.html)
 * [世界，你好！](http://twangt.wang/hello-solo)
 * [ mybaitis-plus 持久层高效开发, 懒人神器](http://twangt.wang/articles/2019/07/30/1564455655383.html)
-* [rocketMQ 概念介绍](http://twangt.wang/articles/2019/07/30/1564455929020.html)
-* [DeskMini310 黑苹果](http://twangt.wang/articles/2019/07/30/1564456044182.html)
 * [Docker Compose 配置文件详解(转载)](http://twangt.wang/articles/2019/07/31/1564555619418.html)
+* [DeskMini310 黑苹果](http://twangt.wang/articles/2019/07/30/1564456044182.html)
+* [rocketMQ 概念介绍](http://twangt.wang/articles/2019/07/30/1564455929020.html)
 * [Vim的操作小技巧 (转载)](http://twangt.wang/articles/2019/07/30/1564455574852.html)
 * [安装docker(ubuntu环境)](http://twangt.wang/articles/2019/07/20/1563593595366.html)
 * [Freemarker 3种循环模式](http://twangt.wang/articles/2019/07/30/1564455787984.html)
